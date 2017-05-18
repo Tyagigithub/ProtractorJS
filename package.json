@@ -1,0 +1,31 @@
+{
+  "name": "protractorjs",
+  "version": "1.0.0",
+  "description": "Webdriver E2E test wrapper for Angular.",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyagigithub/ProtractorJS.git"
+  },
+  "author": "Neeraj Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyagigithub/ProtractorJS/issues"
+  },
+  "homepage": "https://github.com/Tyagigithub/ProtractorJS#readme",
+  "keywords": [
+    "angular",
+    "test",
+    "testing",
+    "webdriver",
+    "webdriverjs",
+    "selenium"
+  ]
+}
